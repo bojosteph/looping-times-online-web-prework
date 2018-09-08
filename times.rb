@@ -4,6 +4,4 @@ def spell
   puts "Wingardium Leviosa"
 end
 
-spell
-
 
